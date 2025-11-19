@@ -29,3 +29,8 @@ Jawaban: Tidak, pengisian elemen array dari scanner tidak harus dimulai dari ind
 Pertanyaan Percobaan 3
 2. Apa fungsi dari Arrays.toString()?
 Jaawaban: Arrays.toString() fungsinya adalah mengubah isi array menjadi bentuk teks (string) supaya bisa ditampilkan dengan mudah menggunakan println().
+3. Apa nilai default untuk elemen pada array dengan tipe data int? 
+Jawaban: Ketika membuat array bertipe int tanpa memberi nilai apa pun, Java secara otomatis mengisinya dengan nilai awal (default value). Untuk tipe data primitif seperti int, default-nya adalah 0.Ini terjadi karena Java tidak membiarkan array berisi nilai kosong, setiap elemen harus punya nilai awal, dan untuk tipe numerik seperti int, angka yang paling aman dan netral adalah 0.
+5. Array myNumbers memiliki length berbeda untuk setiap barisnya. Apakah panjang 
+array dapat dimodifikasi setelah diinstansiasi?
+Jawaban: Panjang array tidak dapat dimodifikasi setelah array tersebut diinstansiasi.Jika ingin ukuran baru,maka  harus membuat array baru, bukan mengubah yang lama.
