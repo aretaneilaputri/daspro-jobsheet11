@@ -39,10 +39,14 @@ public class BioskopWithScanner03 {
                                 System.out.println("Kursi tidak tersedia! Coba lagi.");
                                 continue;
                             }
+
+                            if (penonton[baris - 1][kolom - 1] != null) {
+                                System.out.println("Kursi terisi! Pilih kursi lain.");
+                                continue;
+                            }
+
                             break;
                         }
-
-
                         penonton[baris - 1][kolom - 1] = nama;
 
                         System.out.print("Input penonton lainnya? (y/n): ");
