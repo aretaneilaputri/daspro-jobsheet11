@@ -16,3 +16,5 @@ Kekurangan foreach loop:
 Foreach tidak memberi akses terhadap nomor indeks, jadi kita tidak bisa mengetahui elemen berada di posisi ke berapa. Selain itu, foreach tidak bisa digunakan untuk mengubah nilai elemen secara langsung pada posisi tertentu. Jika kita butuh kontrol penuh terhadap indeks, ingin mengedit elemen, atau butuh melompati beberapa indeks, maka for loop lebih cocok.
 11. Berapa indeks baris maksimal untuk array penonton?
 Jawaban: Array penonton memiliki 4 baris, yaitu indeks 0, 1, 2, dan 3.Karena indeks dimulai dari 0 maka indeks baris maksimalnya adalah 3.
+12. Berapa indeks kolom maksimal untuk array penonton?
+Jawaban:etiap baris pada array penonton memiliki 2 kolom, yaitu indeks 0 dan 1.Karena indeks dimulai dari 0, maka indeks kolom maksimalnya adalah 1.
