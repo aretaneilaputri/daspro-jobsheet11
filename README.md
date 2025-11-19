@@ -20,3 +20,8 @@ Jawaban: Array penonton memiliki 4 baris, yaitu indeks 0, 1, 2, dan 3.Karena ind
 Jawaban:etiap baris pada array penonton memiliki 2 kolom, yaitu indeks 0 dan 1.Karena indeks dimulai dari 0, maka indeks kolom maksimalnya adalah 1.
 13. Apa fungsi dari String.join()?
 Jawaban: String.join() berfungsi untuk menggabungkan beberapa string yang ada dalam sebuah array atau kumpulan data, lalu menyusunnya menjadi satu kalimat dengan pemisah tertentu. Pemisahnya bisa berupa koma, spasi, tanda hubung, atau apa pun yang kita tentukan.
+
+Pertanyaan Percobaan 2
+1. Apakah pengisian elemen array dari scanner harus dilakukan secara berurutan mulai 
+dari indeks ke-0? Jelaskan! 
+Jawaban: Tidak, pengisian elemen array dari scanner tidak harus dimulai dari indeks ke-0, karena array hanya menyediakan posisi penyimpanan jadi bebas memilih mau mengisi bagian mana terlebih dahulu,yang penting baris dan kolom yang di masukkan masih dalam batas ukuran array, sehingga meskipun urutannya acak, program tetap bisa menyimpan data dengan benar sementara elemen yang belum diisi akan tetap bernilai null.
