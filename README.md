@@ -25,3 +25,7 @@ Pertanyaan Percobaan 2
 1. Apakah pengisian elemen array dari scanner harus dilakukan secara berurutan mulai 
 dari indeks ke-0? Jelaskan! 
 Jawaban: Tidak, pengisian elemen array dari scanner tidak harus dimulai dari indeks ke-0, karena array hanya menyediakan posisi penyimpanan jadi bebas memilih mau mengisi bagian mana terlebih dahulu,yang penting baris dan kolom yang di masukkan masih dalam batas ukuran array, sehingga meskipun urutannya acak, program tetap bisa menyimpan data dengan benar sementara elemen yang belum diisi akan tetap bernilai null.
+
+Pertanyaan Percobaan 3
+2. Apa fungsi dari Arrays.toString()?
+Jaawaban: Arrays.toString() fungsinya adalah mengubah isi array menjadi bentuk teks (string) supaya bisa ditampilkan dengan mudah menggunakan println().
