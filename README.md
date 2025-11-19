@@ -18,3 +18,5 @@ Foreach tidak memberi akses terhadap nomor indeks, jadi kita tidak bisa mengetah
 Jawaban: Array penonton memiliki 4 baris, yaitu indeks 0, 1, 2, dan 3.Karena indeks dimulai dari 0 maka indeks baris maksimalnya adalah 3.
 12. Berapa indeks kolom maksimal untuk array penonton?
 Jawaban:etiap baris pada array penonton memiliki 2 kolom, yaitu indeks 0 dan 1.Karena indeks dimulai dari 0, maka indeks kolom maksimalnya adalah 1.
+13. Apa fungsi dari String.join()?
+Jawaban: String.join() berfungsi untuk menggabungkan beberapa string yang ada dalam sebuah array atau kumpulan data, lalu menyusunnya menjadi satu kalimat dengan pemisah tertentu. Pemisahnya bisa berupa koma, spasi, tanda hubung, atau apa pun yang kita tentukan.
