@@ -38,3 +38,7 @@ Jawaban: Panjang array tidak dapat dimodifikasi setelah array tersebut diinstans
 Pertanyaan Percobaan 4
 1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah?
 Jawaban: Jika jumlah siswa dan jumlah mata kuliah berubah, maka program harus dibuat lebih fleksibel dengan menggunakan variabel input untuk menentukan ukuran array. Artinya, ukuran baris menyesuaikan jumlah siswa, dan ukuran kolom menyesuaikan jumlah mata kuliah. Dengan cara ini, program tetap berjalan normal tanpa harus mengubah kode secara manual setiap kali ada penambahan atau pengurangan data.
+
+Tugas:
+3. Implementasikan flowchart yang telah dibuat pada latihan Dasar Pemrograman 
+(Teori) ke dalam kode program Java. 
