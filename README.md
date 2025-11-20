@@ -34,3 +34,7 @@ Jawaban: Ketika membuat array bertipe int tanpa memberi nilai apa pun, Java seca
 5. Array myNumbers memiliki length berbeda untuk setiap barisnya. Apakah panjang 
 array dapat dimodifikasi setelah diinstansiasi?
 Jawaban: Panjang array tidak dapat dimodifikasi setelah array tersebut diinstansiasi.Jika ingin ukuran baru,maka  harus membuat array baru, bukan mengubah yang lama.
+
+Pertanyaan Percobaan 4
+1. Bagaimana jika terdapat perubahan jumlah siswa dan jumlah mata kuliah?
+Jawaban: Jika jumlah siswa dan jumlah mata kuliah berubah, maka program harus dibuat lebih fleksibel dengan menggunakan variabel input untuk menentukan ukuran array. Artinya, ukuran baris menyesuaikan jumlah siswa, dan ukuran kolom menyesuaikan jumlah mata kuliah. Dengan cara ini, program tetap berjalan normal tanpa harus mengubah kode secara manual setiap kali ada penambahan atau pengurangan data.
